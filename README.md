@@ -68,6 +68,14 @@ BH Development
 
 For support or bug reports, please contact BH Development through their official channels.
 
+## Tebex Store
+
+https://bh-development.tebex.io/
+
+## Discord
+
+https://discord.gg/ZesKGzXNZn
+
 ## License
 
 All rights reserved. This resource is provided as-is and may not be redistributed without permission from BH Development.
