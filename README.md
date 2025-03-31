@@ -63,10 +63,6 @@ Config.ShowMarkers = true   -- Toggle visual markers
 5. Complete the drop-off process at the jail entrance
 6. Receive reward upon successful completion
 
-## Version
-
-Current Version: 1.0.1
-
 ## Author
 
 BH Development
